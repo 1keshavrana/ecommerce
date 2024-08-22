@@ -1,2 +1,2 @@
 # ecommerce
-project on ecommerce websie
+project on ecommerce website
